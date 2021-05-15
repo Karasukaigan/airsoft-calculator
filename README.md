@@ -10,5 +10,5 @@ BB弾重さ、初速を入力 → 運動エネルギーを計算 → 合法性�
 弾道の曲線を描画（有効射程以内は青い線、有効射程以外は赤い線）<br>
 <img src="https://github.com/Karasukaigan/airsoft-calculator/blob/main/%E7%94%BB%E9%9D%A2.png"  alt="実行画面" /><br>
 <br>
-弾道計算の方法は<a href="https://slpr.sakura.ne.jp/qp/">sikinoさん</a>の研究を参考しております。
+弾道計算の方法は<a href="https://slpr.sakura.ne.jp/qp/">sikinoさん</a>の研究を参考しております。<br>
 
