@@ -1,7 +1,7 @@
 # エアガン専用電卓 Airsoft Calculator
 It can be used to calculate the kinetic energy of the BB bullet and the bullet trajectory.  
 運動エネルギー計算とシンプルな弾道計算を実現しました。  
-AIRSOFT弾道計算[Web版](http://www.karasukaigan.com/calculator.html)  
+**AIRSOFT弾道計算 [Web版](http://www.karasukaigan.com/calculator.html)**  
   
 ## 機能
 * **運動エネルギー計算**  
